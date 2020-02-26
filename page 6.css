@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div {
+			background-color: white;
+			font-size: 30pt;
+			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+			color: indianred;
+			text-align: center;
+			width: 600px;
+			padding: 10px;
+			border: 10px solid indianred;
+			margin: auto;
+		}
+	
+		
+		#boxes {
+			content: "";
+			display: table;
+			clear: both;
+			margin: auto;
+		}
+		
+		#column1 {
+			background-color: white;
+			color: indianred;
+			width: 800px;
+			margin-bottom: 10px;
+	
+		}
+		#column2 {
+			background-color: white;
+			color: black;
+			font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+			font-size: 15pt;
+			width: 800px;
+			margin-bottom: 10px;
+			text-align: justify;
+			border-style: dashed;
+		}
+		#column3 {
+			background-color: white;
+			color: indianred;
+			width: 285px;
+			height: 360px;
+			margin-bottom: 10px;
+		}
+		#column4 {
+			background-color: white;
+			color: indianred;
+			width: 285px;
+			height: 360px;
+			margin-bottom: 10px;
+		}
+	

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	div {
+			background-color: white;
+			font-size: 60pt;
+			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+			color: indianred;
+			text-align: center;	
+			width: 600px;
+			padding: 10px;
+			border: 10px solid indianred;
+			margin: auto;
+		
+		}
